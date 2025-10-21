@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|c:\\long\\datn2\\datn\\moinhat\\moinhat\\stylezone (1)\\stylezone (1)\\stylezone\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|c:\\long\\datn2\\datn\\moinhat\\moinhat\\stylezone (1)\\stylezone (1)\\stylezone\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|c:\\long\\datn2\\datn\\moinhat\\moinhat\\stylezone (1)\\stylezone (1)\\stylezone\\api\\domain\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|solutionrelative:api\\domain\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DD4804-D274-4A96-960C-73182584A57E}|MVC\\MVC.csproj|c:\\long\\datn2\\datn\\moinhat\\moinhat\\stylezone (1)\\stylezone (1)\\stylezone\\mvc\\areas\\admin\\controllers\\mvcauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DD4804-D274-4A96-960C-73182584A57E}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\mvcauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|c:\\long\\datn2\\datn\\moinhat\\moinhat\\stylezone (1)\\stylezone (1)\\stylezone\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DF3ACF-E605-4F87-B670-C9E807D32566}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API",
+              "DocumentMoniker": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T11:40:01.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\Domain\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "API\\Domain\\Service\\AuthService.cs",
+              "ToolTip": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\Domain\\Service\\AuthService.cs",
+              "RelativeToolTip": "API\\Domain\\Service\\AuthService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:25:55.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:25:13.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MVCAuthController.cs",
+              "DocumentMoniker": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\Areas\\Admin\\Controllers\\MVCAuthController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\MVCAuthController.cs",
+              "ToolTip": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\Areas\\Admin\\Controllers\\MVCAuthController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\MVCAuthController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAIAwwGYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:23:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\long\\DATN2\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T10:09:27.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
