@@ -1,0 +1,1473 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\coupon.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\coupon.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\ctkm.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\ctkm.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\ctm1t1.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\ctm1t1.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\ctsp.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\ctsp.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\ggkm.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\ggkm.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\ggsp.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\ggsp.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\lineicons.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\lineicons.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\loading-bar.min.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\loading-bar.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\m1t1.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\m1t1.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\morris.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\product.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\product.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\css\\vcps.css",
+      "PackagePath": "staticwebassets\\assets\\assets\\css\\vcps.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\lineicons.eot",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\lineicons.eot"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\lineicons.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\lineicons.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\lineicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\lineicons.ttf"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\lineicons.woff",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\lineicons.woff"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\lineicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\lineicons.woff2"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\auth\\reset-password.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\auth\\reset-password.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\auth\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\auth\\shape.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\auth\\signin-image.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\auth\\signin-image.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\auth\\signup-image.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\auth\\signup-image.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-1\\admin-1.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-1\\admin-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-1\\admin-2.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-1\\admin-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-1\\admin-3.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-1\\admin-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-1\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-1\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-1\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-1\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-1\\card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-1\\card-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-2\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-2\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-2\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-2\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-2\\card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-2\\card-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-4\\card-1.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-4\\card-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-4\\card-2.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-4\\card-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-4\\card-3.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-4\\card-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-5\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-5\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-5\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-5\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-6\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-6\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-6\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-6\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-6\\card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-6\\card-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\cards\\card-style-6\\card-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\cards\\card-style-6\\card-4.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\clients\\client-profile.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\clients\\client-profile.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\clients\\clients-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\clients\\clients-cover.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\invoice\\uideck-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\invoice\\uideck-logo.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\lead\\lead-1.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\lead\\lead-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\lead\\lead-2.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\lead\\lead-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\lead\\lead-3.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\lead\\lead-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\lead\\lead-4.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\lead\\lead-4.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\lead\\lead-5.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\lead\\lead-5.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\lead\\lead-6.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\lead\\lead-6.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\logo\\logo-2.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\logo\\logo-2.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\logo\\logo-icon-big.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\logo\\logo-icon-big.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\logo\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\logo\\logo-white.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\logo\\logo.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\modals\\image-1.svg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\modals\\image-1.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\products\\product-mini-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\products\\product-mini-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\products\\product-mini-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\products\\product-mini-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\products\\product-mini-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\products\\product-mini-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\products\\product-mini-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\products\\product-mini-4.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\products\\product-mini-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\products\\product-mini-5.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\profile\\profile-1.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\profile\\profile-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\profile\\profile-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\profile\\profile-cover.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\profile\\profile-image.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\profile\\profile-image.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\profile\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\profile\\profile.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\projects\\image-1.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\projects\\image-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\projects\\image-2.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\projects\\image-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\images\\projects\\image-3.png",
+      "PackagePath": "staticwebassets\\assets\\assets\\images\\projects\\image-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\Coupon.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\Coupon.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\dynamic-pie-chart.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\dynamic-pie-chart.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\ggkm.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\ggkm.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\ggsp.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\ggsp.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\jvectormap.min.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\jvectormap.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\loading-bar.min.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\loading-bar.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\m1t1.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\m1t1.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\polyfill.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\product.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\js\\world-merc.js",
+      "PackagePath": "staticwebassets\\assets\\assets\\js\\world-merc.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\_default.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\_default.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\_mixin.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\_mixin.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\_preloader.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\_preloader.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\alerts\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\alerts\\_alerts.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\auth\\_signin.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\auth\\_signin.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\auth\\_signup.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\auth\\_signup.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\buttons\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\buttons\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\calendar\\_calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\calendar\\_calendar.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\cards\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\cards\\_cards.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\dashboards\\_dashboards.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\dashboards\\_dashboards.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\forms\\_form-elements.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\forms\\_form-elements.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\header\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\header\\_header.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\icons\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\icons\\_icons.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\invoice\\_invoice.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\invoice\\_invoice.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\notification\\_notification.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\notification\\_notification.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\settings\\_settings.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\settings\\_settings.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\tables\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\tables\\_tables.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\assets\\scss\\typography\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\assets\\scss\\typography\\_typography.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\banhangtaiquay.css",
+      "PackagePath": "staticwebassets\\assets\\css\\banhangtaiquay.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\coupon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\coupon.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\ctkm.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ctkm.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\ctm1t1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ctm1t1.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\ctsp.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ctsp.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\ggkm.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ggkm.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\ggsp.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ggsp.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\hoadonchitiet.css",
+      "PackagePath": "staticwebassets\\assets\\css\\hoadonchitiet.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\lineicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lineicons.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\loading-bar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\loading-bar.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\m1t1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\m1t1.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\css\\morris.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\product.css",
+      "PackagePath": "staticwebassets\\assets\\css\\product.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\css\\vcps.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vcps.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\lineicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lineicons.eot"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\lineicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lineicons.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\lineicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lineicons.ttf"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\lineicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lineicons.woff"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\lineicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\lineicons.woff2"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\auth\\reset-password.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\reset-password.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\auth\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\shape.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\auth\\signin-image.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\signin-image.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\auth\\signup-image.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\signup-image.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-1\\admin-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-1\\admin-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-1\\admin-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-1\\admin-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-1\\admin-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-1\\admin-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-1\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-1\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-1\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-1\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-1\\card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-1\\card-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-2\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-2\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-2\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-2\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-2\\card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-2\\card-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-4\\card-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-4\\card-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-4\\card-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-4\\card-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-4\\card-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-4\\card-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-5\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-5\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-5\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-5\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-6\\card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-6\\card-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-6\\card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-6\\card-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-6\\card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-6\\card-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\cards\\card-style-6\\card-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cards\\card-style-6\\card-4.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\clients\\client-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\client-profile.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\clients\\clients-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\clients-cover.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\invoice\\uideck-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\invoice\\uideck-logo.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\lead\\lead-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lead\\lead-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\lead\\lead-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lead\\lead-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\lead\\lead-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lead\\lead-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\lead\\lead-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lead\\lead-4.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\lead\\lead-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lead\\lead-5.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\lead\\lead-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lead\\lead-6.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\logo\\logo-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-2.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\logo\\logo-icon-big.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-icon-big.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\logo\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-white.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\logo\\shopping-bag.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\shopping-bag.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\logo\\stylezone-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\stylezone-icon.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\logo\\stylezone-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\stylezone-logo.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\modals\\image-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\modals\\image-1.svg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\products\\product-mini-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-mini-1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\products\\product-mini-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-mini-2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\products\\product-mini-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-mini-3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\products\\product-mini-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-mini-4.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\products\\product-mini-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-mini-5.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\profile\\profile-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\profile\\profile-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile-cover.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\profile\\profile-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile-image.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\profile\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\projects\\image-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\image-1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\projects\\image-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\image-2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\images\\projects\\image-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\projects\\image-3.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\Coupon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\Coupon.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\banhangtaiquay.js",
+      "PackagePath": "staticwebassets\\assets\\js\\banhangtaiquay.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\dynamic-pie-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dynamic-pie-chart.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\ggkm.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ggkm.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\ggsp.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ggsp.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\hoadonchitiet.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hoadonchitiet.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\jvectormap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jvectormap.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\loading-bar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\loading-bar.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\m1t1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\m1t1.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\assets\\js\\polyfill.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\product.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\js\\world-merc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\world-merc.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\_default.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_default.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\_mixin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_mixin.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\_preloader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_preloader.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\alerts\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\alerts\\_alerts.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\auth\\_signin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\auth\\_signin.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\auth\\_signup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\auth\\_signup.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\buttons\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\buttons\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\calendar\\_calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\calendar\\_calendar.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\cards\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\cards\\_cards.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\dashboards\\_dashboards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\dashboards\\_dashboards.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\forms\\_form-elements.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\forms\\_form-elements.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\header\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_header.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\icons\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\icons\\_icons.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\invoice\\_invoice.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\invoice\\_invoice.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\notification\\_notification.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\notification\\_notification.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\settings\\_settings.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\settings\\_settings.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\tables\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\tables\\_tables.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\assets\\scss\\typography\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\typography\\_typography.scss"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Banner+Monthethao.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Banner+Monthethao.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Banner2denfooter.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Banner2denfooter.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Cart.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\ChungImager.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\ChungImager.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Confim.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Confim.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\DonMua.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\DonMua.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Hearder.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Hearder.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Hethongcuahang.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Hethongcuahang.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Login.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Login.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Regiter.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Regiter.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Repassword.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Repassword.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\SenOtp.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\SenOtp.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\StyleDetail.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\StyleDetail.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\StyleMobile.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\StyleMobile.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\StylePC.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\StylePC.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Taikhoancuatoi.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Taikhoancuatoi.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\Than3.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\Than3.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\ThanhToan.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\ThanhToan.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\ThanhToanCustomerId.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\ThanhToanCustomerId.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\account.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\account.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\style.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\CSS\\style1.css",
+      "PackagePath": "staticwebassets\\css\\CSS\\style1.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\1.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\1.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\10.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\10.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\15.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\15.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\16.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\16.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\19.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\19.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\2.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\20.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\20.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\3.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\3.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\4.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\4.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\5.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\5.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\6.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\6.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\7.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\7.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\Banner chính1.png",
+      "PackagePath": "staticwebassets\\css\\Image\\Banner chính1.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\BannerOke2.png",
+      "PackagePath": "staticwebassets\\css\\Image\\BannerOke2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\Doremon hài hước tập 14 Tiền nhiều để làm gì Bua No TV.mp4.crdownload",
+      "PackagePath": "staticwebassets\\css\\Image\\Doremon hài hước tập 14 Tiền nhiều để làm gì Bua No TV.mp4.crdownload"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\Screenshot.png",
+      "PackagePath": "staticwebassets\\css\\Image\\Screenshot.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\Sony A7IV - Sony 35mm 1.8 - Basketball Commercial Video -.mp4",
+      "PackagePath": "staticwebassets\\css\\Image\\Sony A7IV - Sony 35mm 1.8 - Basketball Commercial Video -.mp4"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\acpv041-16___ce535f5affd04bf7be04bcf6464cfcdc.webp",
+      "PackagePath": "staticwebassets\\css\\Image\\acpv041-16___ce535f5affd04bf7be04bcf6464cfcdc.webp"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\anhkhuyenmaihe.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\anhkhuyenmaihe.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\background-2-9-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\background-2-9-thumbnail.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\bannerchinh2.png",
+      "PackagePath": "staticwebassets\\css\\Image\\bannerchinh2.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\bannernuchinh.png",
+      "PackagePath": "staticwebassets\\css\\Image\\bannernuchinh.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\bongban.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\bongban.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\bongda.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\bongda.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\bongro.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\bongro.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\campaign-popup_grande.webp",
+      "PackagePath": "staticwebassets\\css\\Image\\campaign-popup_grande.webp"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\caulong.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\caulong.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\chaybo.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\chaybo.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\flashsale_img.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\flashsale_img.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\golf.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\golf.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\gym.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\gym.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\img-gov.webp",
+      "PackagePath": "staticwebassets\\css\\Image\\img-gov.webp"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\khuyenmai.png",
+      "PackagePath": "staticwebassets\\css\\Image\\khuyenmai.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\logo_compact.webp",
+      "PackagePath": "staticwebassets\\css\\Image\\logo_compact.webp"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\logo_compact1.webp",
+      "PackagePath": "staticwebassets\\css\\Image\\logo_compact1.webp"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\logoxoanen.png",
+      "PackagePath": "staticwebassets\\css\\Image\\logoxoanen.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\mess.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\mess.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\momo.png",
+      "PackagePath": "staticwebassets\\css\\Image\\momo.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\pickleball.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\pickleball.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\poster_bong_da_upscaled.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\poster_bong_da_upscaled.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\slideshow_2.jpg",
+      "PackagePath": "staticwebassets\\css\\Image\\slideshow_2.jpg"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\slideshow_3.webp",
+      "PackagePath": "staticwebassets\\css\\Image\\slideshow_3.webp"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\slideshow_5.webp",
+      "PackagePath": "staticwebassets\\css\\Image\\slideshow_5.webp"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\test.html",
+      "PackagePath": "staticwebassets\\css\\Image\\test.html"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\vivi.png",
+      "PackagePath": "staticwebassets\\css\\Image\\vivi.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\Image\\zalo.png",
+      "PackagePath": "staticwebassets\\css\\Image\\zalo.png"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LưuChu\\DATN\\Moinhat\\Moinhat\\StyleZone (1)\\StyleZone (1)\\StyleZone\\MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVC.props",
+      "PackagePath": "build\\MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC.props",
+      "PackagePath": "buildMultiTargeting\\MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVC.props",
+      "PackagePath": "buildTransitive\\MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

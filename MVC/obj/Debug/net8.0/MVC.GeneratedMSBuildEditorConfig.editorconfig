@@ -1,0 +1,725 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC
+build_property.RootNamespace = MVC
+build_property.ProjectDir = C:\long\DATN2\DATN\Moinhat\Moinhat\StyleZone (1)\StyleZone (1)\StyleZone\MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\long\DATN2\DATN\Moinhat\Moinhat\StyleZone (1)\StyleZone (1)\StyleZone\MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Account/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Account/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Account/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Brands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Brands/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Brands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Colors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Colors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Colors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Materials/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF0ZXJpYWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Materials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF0ZXJpYWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Materials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF0ZXJpYWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/MVCAuth/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVZDQXV0aFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/MVCAuth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVZDQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/MVCAuth/ResetPasswordWithCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTVZDQXV0aFxSZXNldFBhc3N3b3JkV2l0aENvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Order/CancelOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQ2FuY2VsT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Order/OrderDetailNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcT3JkZXJEZXRhaWxOZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Order/Print.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcUHJpbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Origins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JpZ2luc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Origins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JpZ2luc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Origins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JpZ2luc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/ProductDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdERldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/ProductDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdERldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/ProductDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdERldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Promotions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvbW90aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Promotions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvbW90aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Promotions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvbW90aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Promotions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvbW90aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Shared/_ProductDetailsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Qcm9kdWN0RGV0YWlsc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Suppliers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Suppliers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Suppliers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Supplier/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Supplier/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Supplier/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Vouchers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVm91Y2hlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Vouchers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVm91Y2hlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Vouchers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVm91Y2hlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/Vouchers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVm91Y2hlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/CartCustomerID/ListCartId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEN1c3RvbWVySURcTGlzdENhcnRJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/CartCustomer/CartCustomerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEN1c3RvbWVyXENhcnRDdXN0b21lckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DetailCustomer/DetailCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsQ3VzdG9tZXJcRGV0YWlsQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DetailCustomer/DetailCustomerID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsQ3VzdG9tZXJcRGV0YWlsQ3VzdG9tZXJJRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/DiaChi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcRGlhQ2hpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/DoiMatKhau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcRG9pTWF0S2hhdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/ListDonHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcTGlzdERvbkhhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/ListDonHangCancelled.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcTGlzdERvbkhhbmdDYW5jZWxsZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/ListDonHangConfirmed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcTGlzdERvbkhhbmdDb25maXJtZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/ListDonHangDelivered.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcTGlzdERvbkhhbmdEZWxpdmVyZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/ListDonHangPending.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcTGlzdERvbkhhbmdQZW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/ListDonHangProcessing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcTGlzdERvbkhhbmdQcm9jZXNzaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/ListDonHangShipping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcTGlzdERvbkhhbmdTaGlwcGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/DonMuaCustomer/TaiKhoanCuaToi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uTXVhQ3VzdG9tZXJcVGFpS2hvYW5DdWFUb2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/BaoMat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXEJhb01hdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/DieuKhoanDichVu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXERpZXVLaG9hbkRpY2hWdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/DoiTraOnl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXERvaVRyYU9ubC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/DoiTraTaiNha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXERvaVRyYVRhaU5oYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/GioiThieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXEdpb2lUaGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/HeThongCuaHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXEhlVGhvbmdDdWFIYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/HuongDanDoSiZe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXEh1b25nRGFuRG9TaVplLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/HuongDanMuaHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXEh1b25nRGFuTXVhSGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/HuongDanThanhToan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXEh1b25nRGFuVGhhbmhUb2FuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/ThanhToan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXFRoYW5oVG9hbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/ThongTinLienHe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXFRob25nVGluTGllbkhlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Footer/VanChuyen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vdGVyXFZhbkNodXllbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/LoginAccount/ConfirmOtpp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BY2NvdW50XENvbmZpcm1PdHBwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/LoginAccount/ConfirmOtppRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BY2NvdW50XENvbmZpcm1PdHBwUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/LoginAccount/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/LoginAccount/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/LoginAccount/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BY2NvdW50XFJlc2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/LoginAccount/SendOtp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BY2NvdW50XFNlbmRPdHAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/LoginAccount/SendOtppRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BY2NvdW50XFNlbmRPdHBwUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/MoMoThanhtoancustomer/Tracuudonhang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9Nb1RoYW5odG9hbmN1c3RvbWVyXFRyYWN1dWRvbmhhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/AoDaiTayNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQW9EYWlUYXlOYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/AoGioNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQW9HaW9OYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/AoLongVuNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQW9Mb25nVnVOYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/AoNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQW9OYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/AoNiNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQW9OaU5hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/AoPoLoNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQW9Qb0xvTmFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/AoTShirtNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQW9UU2hpcnROYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/BoQuanAoBongRoNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQm9RdWFuQW9Cb25nUm9OYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/BoQuanAoCauLongNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQm9RdWFuQW9DYXVMb25nTmFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/BoQuanAoNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcQm9RdWFuQW9OYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/DoNamCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcRG9OYW1DdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/GiayBongDaNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcR2lheUJvbmdEYU5hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/GiayBongRoNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcR2lheUJvbmdSb05hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/GiayCauLongNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcR2lheUNhdUxvbmdOYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/GiayChayBoNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcR2lheUNoYXlCb05hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/GiayNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcR2lheU5hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/GiayThoiTrangNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcR2lheVRob2lUcmFuZ05hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/QuanGioNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcUXVhbkdpb05hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/QuanNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcUXVhbk5hbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/QuanNiNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcUXVhbk5pTmFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NamCustomer/QuanShortNam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtQ3VzdG9tZXJcUXVhblNob3J0TmFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/AoDaiTayNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxBb0RhaVRheU51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/AoGioNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxBb0dpb051LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/AoLongVuNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxBb0xvbmdWdU51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/AoNiNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxBb05pTnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/AoNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxBb051LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/AoPoLoNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxBb1BvTG9OdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/AoTShirtNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxBb1RTaGlydE51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/BoQuanAoBongRoNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxCb1F1YW5Bb0JvbmdSb051LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/BoQuanAoCauLongNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxCb1F1YW5Bb0NhdUxvbmdOdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/BoQuanAoNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxCb1F1YW5Bb051LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/DoNuCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxEb051Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/GiayBongDaNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxHaWF5Qm9uZ0RhTnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/GiayBongRoNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxHaWF5Qm9uZ1JvTnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/GiayCauLongNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxHaWF5Q2F1TG9uZ051LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/GiayChayBoNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxHaWF5Q2hheUJvTnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/GiayNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxHaWF5TnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/GiayThoiTrangNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxHaWF5VGhvaVRyYW5nTnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/QuanGioNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxRdWFuR2lvTnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/QuanNiNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxRdWFuTmlOdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/QuanNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxRdWFuTnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/NuCustomer/QuanShortNu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVDdXN0b21lclxRdWFuU2hvcnROdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/SeachCustomer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhY2hDdXN0b21lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_FilterSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWx0ZXJTaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_Hearder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFyZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_HearderLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFyZGVyTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_LayoutChung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDaHVuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_ProductSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0U2VjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_StaticContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdGF0aWNDb250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThanhToanCustomerId/IndexMuaNgayID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuQ3VzdG9tZXJJZFxJbmRleE11YU5nYXlJRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThanhToanCustomerId/ListCartthanhtoanId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuQ3VzdG9tZXJJZFxMaXN0Q2FydHRoYW5odG9hbklkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThanhToanCustomer/IndexMuaNgay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuQ3VzdG9tZXJcSW5kZXhNdWFOZ2F5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThanhToanCustomer/IndexThanhToan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuQ3VzdG9tZXJcSW5kZXhUaGFuaFRvYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThanhToanCustomer/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmhUb2FuQ3VzdG9tZXJcSW52b2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/BongDaCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXEJvbmdEYUN1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/BongRoCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXEJvbmdSb0N1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/CauLongCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXENhdUxvbmdDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/ChayBoCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXENoYXlCb0N1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/GolfCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXEdvbGZDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/PICKLEBALLCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXFBJQ0tMRUJBTExDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/TapLuyenCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXFRhcEx1eWVuQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TheThaoCustomer/TheThaoCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlVGhhb0N1c3RvbWVyXFRoZVRoYW9DdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/BADFIVECusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcQkFERklWRUN1c1RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/BeGaiCusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcQmVHYWlDdXNUb21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/BeTraiCusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcQmVUcmFpQ3VzVG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/ISAACCusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcSVNBQUNDdXNUb21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/LIFESTYLECusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcTElGRVNUWUxFQ3VzVG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/OUTLETCusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcT1VUTEVUQ3VzVG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/OUTLETPICKLEBALLCusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcT1VUTEVUUElDS0xFQkFMTEN1c1RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/ThoiTrangCusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcVGhvaVRyYW5nQ3VzVG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/WADECusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcV0FERUN1c1RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/ThoiTrangCustomerMVC/YOUNGCusTomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvaVRyYW5nQ3VzdG9tZXJNVkNcWU9VTkdDdXNUb21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TinTucCustomer/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluVHVjQ3VzdG9tZXJcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/TinTucCustomer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluVHVjQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/long/DATN2/DATN/Moinhat/Moinhat/StyleZone (1)/StyleZone (1)/StyleZone/MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e
